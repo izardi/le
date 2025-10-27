@@ -1,0 +1,18 @@
+[2025-10-27 17:32:15] [HOST] 目标:192.168.18.1 状态:alive 详情:protocol=ICMP
+[2025-10-27 17:32:16] [HOST] 目标:192.168.18.160 状态:alive 详情:protocol=ICMP
+[2025-10-27 17:32:21] [PORT] 目标:192.168.18.1 状态:open 详情:port=80
+[2025-10-27 17:32:23] [PORT] 目标:192.168.18.1 状态:open 详情:port=8080
+[2025-10-27 17:32:24] [SERVICE] 目标:192.168.18.1 状态:identified 详情:port=80, service=http, title=自如智能全屋智控网关, Url=http://192.168.18.1, status_code=200, length=1233, server_info=map[content-type:text/html date:Mon, 27 Oct 2025 09:32:25 GMT etag:"3e9-4d1-66bd632e" last-modified:Thu, 15 Aug 2024 02:08:46 GMT length:1233 status_code:200 title:自如智能全屋智控网关], fingerprints=[]
+[2025-10-27 17:32:27] [SERVICE] 目标:192.168.18.1 状态:identified 详情:fingerprints=[], port=8080, service=http, title=Index of /, Url=http://192.168.18.1:8080, status_code=200, length=252, server_info=map[content-type:text/html date:Mon, 27 Oct 2025 09:32:27 GMT length:252 status_code:200 title:Index of /]
+[2025-10-27 17:32:31] [HOST] 目标:192.168.18.1 状态:alive 详情:protocol=ICMP
+[2025-10-27 17:32:31] [HOST] 目标:192.168.18.142 状态:alive 详情:protocol=ICMP
+[2025-10-27 17:32:32] [HOST] 目标:192.168.18.160 状态:alive 详情:protocol=ICMP
+[2025-10-27 17:32:32] [HOST] 目标:192.168.18.170 状态:alive 详情:protocol=ICMP
+[2025-10-27 17:32:32] [HOST] 目标:192.168.18.189 状态:alive 详情:protocol=ICMP
+[2025-10-27 17:32:33] [HOST] 目标:192.168.18.221 状态:alive 详情:protocol=ICMP
+[2025-10-27 17:32:33] [HOST] 目标:192.168.18.214 状态:alive 详情:protocol=ICMP
+[2025-10-27 17:32:33] [HOST] 目标:192.168.18.218 状态:alive 详情:protocol=ICMP
+[2025-10-27 17:32:36] [PORT] 目标:192.168.18.1 状态:open 详情:port=80
+[2025-10-27 17:32:37] [PORT] 目标:192.168.18.1 状态:open 详情:port=8080
+[2025-10-27 17:32:42] [SERVICE] 目标:192.168.18.1 状态:identified 详情:port=80, service=http, title=自如智能全屋智控网关, Url=http://192.168.18.1, status_code=200, length=1233, server_info=map[content-type:text/html date:Mon, 27 Oct 2025 09:32:42 GMT etag:"3e9-4d1-66bd632e" last-modified:Thu, 15 Aug 2024 02:08:46 GMT length:1233 status_code:200 title:自如智能全屋智控网关], fingerprints=[]
+[2025-10-27 17:32:44] [SERVICE] 目标:192.168.18.1 状态:identified 详情:fingerprints=[], port=8080, service=http, title=Index of /, Url=http://192.168.18.1:8080, status_code=200, length=252, server_info=map[content-type:text/html date:Mon, 27 Oct 2025 09:32:44 GMT length:252 status_code:200 title:Index of /]
